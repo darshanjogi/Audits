@@ -12,3 +12,8 @@ Contest / bug bounty platform profiles:S
 ##All Time Stats
 
 
+| Date       | Protocol | Platform | High | Medium | Low |
+|------------|----------|----------|------|--------|-----|
+| 2023-11-04 | Sparkn   | CodeHawks| 0    | 1      | 0   |  https://www.codehawks.com/finding/clmkdx5x9000nw9f3mvp1yxan
+
+
