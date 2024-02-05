@@ -6,7 +6,8 @@ Twitter: @darshan_Jogi_
 
 Discord: batman_47752
 
-Contest / bug bounty platform profiles:S
+Contest/bug bounty platform profiles:
+[Codehawks] (https://www.codehawks.com/profile/clkc47fv10006l908u64cn5ef)
 
 
 ##All Time Stats
