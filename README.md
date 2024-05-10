@@ -2,6 +2,8 @@
 
 ## Contacts
 
+Linkedin: [Darshan_jogi](https://www.linkedin.com/in/darshan-jogi-9450431b6/)
+
 Twitter: @darshan_Jogi_
 
 Discord: batman_47752
