@@ -10,7 +10,7 @@ Discord: batman_47752
 
 
 
-##All Time Stats
+### All Time Stats
 
 
 | Date       | Protocol | Platform | High | Medium | Low | Gas | 
