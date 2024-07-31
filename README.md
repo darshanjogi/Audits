@@ -15,8 +15,7 @@ Discord: batman_47752
 
 | Date       | Protocol | Platform | High | Medium | Low  | Best Practice |
 |------------|----------|----------|------|--------|-----|---------------|
-| 2024-7-30 | [
-First Flight #20: The Predicter](https://codehawks.cyfrin.io/c/2024-07-the-predicter/s/69/) | CodeHawks| 1    | 0     | 0  |  0 |
+| 2024-7-30 | [First Flight #20: The Predicter](https://codehawks.cyfrin.io/c/2024-07-the-predicter/s/69/) | CodeHawks| 1    | 0     | 0  |  0 |
 | 2024-7-3 | [First Flight #18: T-Swap]() | CodeHawks| 4    | 1     | 1  |  0 |
 | 2024-7-1 | [Pocket Network](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0245-FINAL_POCKET_NETWORK.pdf) | Nethermind Internship|  0   | 0     | 0  | 1|
 | 2024-6-16 | [ETHEREUM FOUNDATION VAULT](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0234-FINAL_ETHEREUM_FOUNDATION_HOLESKY_FUNDS_VAULT.pdf) | Nethermind Internship|  0   | 0     | 0  | 2 |
@@ -24,4 +23,4 @@ First Flight #20: The Predicter](https://codehawks.cyfrin.io/c/2024-07-the-predi
 | 2024-3-01 | [1Hive](https://docs.google.com/document/d/19oV0eIje_Iyg73sdfmaWp6hDrN7-j5W8FOGOgNRX7WQ/edit?usp=sharing) | 1Hive BBP| 0    | 1    | 0   | 0|
 | 2023-11-04 | [Sparkn](https://www.codehawks.com/finding/clmkdx5x9000nw9f3mvp1yxan) | CodeHawks| 0    | 0     | 1  | 0|
 | 2023-08-03 | [Ethos Reserve audit](https://code4rena.com/@Darshan) | Code4rena| 0    | 0      | 1 | 0 |
-| Summary |7 |- |5 |2 |3 |3 | 
+| Summary |8 |- |6 |2 |3 |3 | 
