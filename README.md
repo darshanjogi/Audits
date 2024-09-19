@@ -15,6 +15,7 @@ Discord: batman_47752
 
 | Date       | Protocol | Platform | High | Medium | Low  | Best Practice |
 |------------|----------|----------|------|--------|-----|---------------|
+| 2024-9-15 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/s/192) | CodeHawks| 0   | 0     | 1  |  0 |
 | 2024-7-30 | [First Flight #20: The Predicter](https://codehawks.cyfrin.io/c/2024-07-the-predicter/s/69/) | CodeHawks| 1    | 0     | 0  |  0 |
 | 2024-7-3 | [First Flight #18: T-Swap]() | CodeHawks| 4    | 1     | 1  |  0 |
 | 2024-7-1 | [Pocket Network](https://github.com/NethermindEth/PublicAuditReports/blob/main/NM0245-FINAL_POCKET_NETWORK.pdf) | Nethermind Internship|  0   | 0     | 0  | 1|
